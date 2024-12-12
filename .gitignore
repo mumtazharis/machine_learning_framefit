@@ -7,3 +7,20 @@ hog_model.pkl
 scaler_hog.pkl
 hog_test_features.csv
 hog_train_features.csv
+face-shape-new
+hog_model2.pkl
+hog_model3.pkl
+hog_model4.pkl
+hog_test_features2.csv
+hog_test_features3.csv
+hog_test_features4.csv
+hog_train_features2.csv
+hog_train_features3.csv
+hog_train_features4.csv
+pca_model_hog2.pkl
+pca_model_hog3.pkl
+pca_model_hog4.pkl
+scaler_hog2.pkl
+scaler_hog3.pkl
+scaler_hog4.pkl
+shape_predictor_81_face_landmarks copy.dat
