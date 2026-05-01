@@ -24,3 +24,5 @@ scaler_hog2.pkl
 scaler_hog3.pkl
 scaler_hog4.pkl
 shape_predictor_81_face_landmarks copy.dat
+*.jpg
+*.png
